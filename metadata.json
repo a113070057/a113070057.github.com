@@ -1,0 +1,6 @@
+{
+  "name": "Sudoku Master",
+  "description": "A beautiful, modern, full-featured Sudoku Master game with interactive gameplay, pencil notes, real-time AI solver tutoring, global leaderboards, achievements, and player progress stats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
